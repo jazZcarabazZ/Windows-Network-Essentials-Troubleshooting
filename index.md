@@ -2,9 +2,7 @@
 ### Задание №1 
 ![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/1-1.png)
 ![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/1-2.png)
-
-####1464+8(icmp)+20(ip)=1492(mtu на роутере)
-
+#### 1464+8(icmp)+20(ip)=1492(mtu на роутере)
 ![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/1-3.png)
 ### Задание №2
 ![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/2.png)
