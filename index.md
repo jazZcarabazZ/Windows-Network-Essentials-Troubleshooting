@@ -1,8 +1,8 @@
 # **Windows Network Essentials & Troubleshooting**
 ### Задание №1 
 ![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/1-1.png)
-![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/1-1.png)
 ![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/1-2.png)
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/1-3.png)
 ### Задание №2
 ![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/2.png)
 ### Задание №3
