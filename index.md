@@ -1,22 +1,23 @@
 # **Windows Network Essentials & Troubleshooting**
 ### Задание №1 
-![Image](https://github.com/jazZcarabazZ/elearn_subnets-and-routings-with-protocols/raw/master/1.png)
-![Image](https://github.com/jazZcarabazZ/elearn_subnets-and-routings-with-protocols/raw/master/1-1.png)
-![Image](https://github.com/jazZcarabazZ/elearn_subnets-and-routings-with-protocols/raw/master/1-2.png)
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/1-1.png)
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/1-1.png)
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/1-2.png)
 ### Задание №2
-![Image](https://github.com/jazZcarabazZ/elearn_subnets-and-routings-with-protocols/raw/master/2.png)
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/2.png)
 ### Задание №3
-![Image](https://github.com/jazZcarabazZ/elearn_subnets-and-routings-with-protocols/raw/master/3.png)
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/3.png)
 ### Задание №4
-![Image](https://github.com/jazZcarabazZ/elearn_subnets-and-routings-with-protocols/raw/master/4.png)
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/4.png)
 ### Задание №5
-![Image](https://github.com/jazZcarabazZ/elearn_subnets-and-routings-with-protocols/raw/master/1.png)
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/5.png)
 ### Задание №6
-![Image](https://github.com/jazZcarabazZ/elearn_subnets-and-routings-with-protocols/raw/master/2.png)
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/6.png)
 ### Задание №7
-![Image](https://github.com/jazZcarabazZ/elearn_subnets-and-routings-with-protocols/raw/master/3.png)
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/7.png)
 ### Задание №8
-![Image](https://github.com/jazZcarabazZ/elearn_subnets-and-routings-with-protocols/raw/master/4.png)
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/8.png)
 ### Задание №9 
-![Image](https://github.com/jazZcarabazZ/elearn_subnets-and-routings-with-protocols/raw/master/1.png)
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/9.png)
 ### Задание №10
+![Image](https://github.com/jazZcarabazZ/windows-network-essentials-troubleshooting/raw/master/10.png)
